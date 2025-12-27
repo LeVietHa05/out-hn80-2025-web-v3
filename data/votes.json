@@ -1,0 +1,29 @@
+[
+  {
+    "date": "27-12-2025",
+    "type": "dinner",
+    "menus": [
+      {
+        "menuId": "MENU_wuq2uh",
+        "name": "menu 1",
+        "votedStudentIds": [
+          "testid"
+        ]
+      },
+      {
+        "menuId": "MENU_i10g3l",
+        "name": "menu 15",
+        "votedStudentIds": [
+          "testid2"
+        ]
+      },
+      {
+        "menuId": "MENU_g2ie7q",
+        "name": "menu 19",
+        "votedStudentIds": []
+      }
+    ],
+    "winner": null,
+    "totalRaw": {}
+  }
+]

@@ -1,0 +1,424 @@
+{
+  "menus": [
+    {
+      "menuId": "MENU_wuq2uh",
+      "name": "menu 1",
+      "items": [
+        {
+          "itemId": "FOOD_26k2g4",
+          "name": "Cá trắm cỏ",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_n5zwbu",
+          "name": "Súp lơ xanh",
+          "category": "Chất xơ"
+        },
+        {
+          "itemId": "FOOD_4skokb",
+          "name": "Lạc hạt ",
+          "category": "Chất béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_49m28w",
+      "name": "menu 2",
+      "items": [
+        {
+          "itemId": "FOOD_bi1j30",
+          "name": "Đậu phụ nhồi thịt sốt cà chua",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_q3ia3i",
+          "name": "Rau giền luộc",
+          "category": "chất xơ"
+        },
+        {
+          "itemId": "FOOD_vzy38q",
+          "name": "Lạc hạt",
+          "category": "chất béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_3jb2jt",
+      "name": "menu 3",
+      "items": [
+        {
+          "itemId": "FOOD_3sy1x3",
+          "name": "Ức gà không da",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_o2cv40",
+          "name": "Rau bắp cải luộc",
+          "category": "Chất xơ"
+        },
+        {
+          "itemId": "FOOD_djicki",
+          "name": "Lạc hạt",
+          "category": "chất béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_c2498f",
+      "name": "menu 4",
+      "items": [
+        {
+          "itemId": "FOOD_k8s1jg",
+          "name": "Cá trôi rán sốt cà chua",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_rmvlv5",
+          "name": "Rau giền luộc",
+          "category": "Chất xơ"
+        },
+        {
+          "itemId": "FOOD_et26m7",
+          "name": "Lạc hạt",
+          "category": "Chất béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_v7py49",
+      "name": "menu 5",
+      "items": [
+        {
+          "itemId": "FOOD_wfb1u0",
+          "name": "Thịt lợn thăn luộc",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_ee8lsp",
+          "name": "Canh bầu nấu tôm",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_7jl3q6",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_0ro4ww",
+      "name": "menu 6",
+      "items": [
+        {
+          "itemId": "FOOD_z4hpp8",
+          "name": "Cá rô đồng gián",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_edyy1x",
+          "name": "Bí xanh luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_pkcwy4",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_pk97fz",
+      "name": "menu 7",
+      "items": [
+        {
+          "itemId": "FOOD_knc6h1",
+          "name": "Thịt gà luộc",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_jht0sa",
+          "name": "Canh rau ngót nấu thịt",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_emv17t",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_nmecwm",
+      "name": "menu 8",
+      "items": [
+        {
+          "itemId": "FOOD_qql8xm",
+          "name": "Đậu phụ hấp mộc nhĩ",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_aq9hog",
+          "name": "Bí xanh luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_qgot17",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_z1sqta",
+      "name": "menu 9",
+      "items": [
+        {
+          "itemId": "FOOD_ojinui",
+          "name": "Cá trắm cỏ",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_fnj8s1",
+          "name": "Cải thìa",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_fh594s",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_ptldct",
+      "name": "menu 10",
+      "items": [
+        {
+          "itemId": "FOOD_iqz3pa",
+          "name": "Đậu phụ luôc",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_263jt2",
+          "name": "Rau ngót luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_2rderx",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_c4n2gj",
+      "name": "menu 11",
+      "items": [
+        {
+          "itemId": "FOOD_4af0bw",
+          "name": "Thịt băm xào giá đỗ",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_u2yb3t",
+          "name": "Rau ngót luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_cm0gyi",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_citfxu",
+      "name": "menu 12",
+      "items": [
+        {
+          "itemId": "FOOD_viyve3",
+          "name": "Cá rô phi rán ít dầu",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_ktxcto",
+          "name": "Rau bắp cải luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_wn5cgx",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_abmo2a",
+      "name": "menu 13",
+      "items": [
+        {
+          "itemId": "FOOD_lb3cxa",
+          "name": "Cá diêu hồng hấp",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_b94jp2",
+          "name": "Bí xanh luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_scojrq",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_7vceib",
+      "name": "menu 14",
+      "items": [
+        {
+          "itemId": "FOOD_110bw4",
+          "name": "Đậu phụ nhồi thịt sốt cà chua",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_va2bsc",
+          "name": "Súp lơ xanh",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_a2xk8d",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_i10g3l",
+      "name": "menu 15",
+      "items": [
+        {
+          "itemId": "FOOD_qw1iwq",
+          "name": "Ức gà xé",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_mbnwnx",
+          "name": "Rau muống luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_38g89f",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_5n8djs",
+      "name": "menu 16",
+      "items": [
+        {
+          "itemId": "FOOD_0igmm0",
+          "name": "Thịt lợn thăn luộc",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_ap6hwr",
+          "name": "Súp lơ xanh",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_zaaprs",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_hy9ktm",
+      "name": "menu 17",
+      "items": [
+        {
+          "itemId": "FOOD_nng5f7",
+          "name": "Thịt lợn xào giá đỗ",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_rkbw4r",
+          "name": "Cải thảo",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_evrvcz",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_kllrh2",
+      "name": "menu 18",
+      "items": [
+        {
+          "itemId": "FOOD_zsqyek",
+          "name": "Cá trắm cỏ",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_bu0m5y",
+          "name": "Rau muốn luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_uayz02",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_g2ie7q",
+      "name": "menu 19",
+      "items": [
+        {
+          "itemId": "FOOD_ev3wcc",
+          "name": "Cá hấp gừng",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_1f8yq5",
+          "name": "Rau bắp cải luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_ocxrt1",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    },
+    {
+      "menuId": "MENU_51khux",
+      "name": "menu 20",
+      "items": [
+        {
+          "itemId": "FOOD_7dzwdm",
+          "name": "Cá trôi rán sốt cà chua",
+          "category": "Đạm"
+        },
+        {
+          "itemId": "FOOD_kkxzk9",
+          "name": "Rau bắp cải luộc",
+          "category": "Xơ"
+        },
+        {
+          "itemId": "FOOD_w62qn7",
+          "name": "Lạc hạt",
+          "category": "Béo"
+        }
+      ]
+    }
+  ]
+}
