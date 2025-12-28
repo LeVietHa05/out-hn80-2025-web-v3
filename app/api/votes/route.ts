@@ -1,12 +1,38 @@
 import { NextResponse, NextRequest } from "next/server";
 import { readJSON, writeJSON } from "@/lib/file";
-import { Vote, MenuVote } from "@/type";
+import { Vote, MenuVote, Menu } from "@/type";
 
 const FILE = "votes.json";
 
-export async function GET() {
-  const data = readJSON(FILE) || { menus: [] };
-  return NextResponse.json(data);
+export async function GET(req: NextRequest) {
+    const { searchParams } = new URL(req.url);
+    const status = searchParams.get('status'); // 'active' hoặc 'closed'
+
+    const votes = readJSON(FILE) || { votes: [] };
+    const menus = readJSON("menus.json") || { menus: [] };
+
+    if (status === 'active') {
+        const activeVotes = votes.filter((v: Vote) => !v.winner);
+        const votesWithItemsName = activeVotes.map((vote: Vote) => ({
+            ...vote,
+            menus: vote.menus.map((menuVote: MenuVote) => {
+                const menu = menus.menus.find((m: Menu) => m.menuId === menuVote.menuId);
+                return {
+                    ...menuVote,
+                    name: menu?.name || menuVote.menuId,
+                    items: menu.items
+                }
+            })
+        }))
+        return NextResponse.json(votesWithItemsName);
+    }
+
+    if (status === 'closed') {
+        const closedVotes = votes.filter((v: Vote) => v.winner);
+        return NextResponse.json(closedVotes);
+    }
+
+    return NextResponse.json(votes.votes);
 }
 
 export async function POST(req: NextRequest) {

@@ -21,7 +21,8 @@ export interface Vote {
 export interface MenuVote {
     menuId: string,
     name: string,
-    votedStudentIds: string[]
+    votedStudentIds: string[],
+    items?: MenuItem[]
 }
 
 export interface Student {
