@@ -55,7 +55,11 @@
         "votedStudentIds": []
       }
     ],
-    "winner": null,
-    "totalRaw": {}
+    "winner": "MENU_i10g3l",
+    "totalRaw": {
+      "Ức gà xé": 1950,
+      "Rau muống luộc": 3150,
+      "Lạc hạt": 215
+    }
   }
 ]

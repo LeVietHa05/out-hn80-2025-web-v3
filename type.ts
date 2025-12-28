@@ -43,3 +43,22 @@ export interface AdminOverview {
     studentCount: number,
     activeVotes: Vote[]
 }
+
+export interface FoodQueueItem {
+    studentId: string;
+    studentName: string;
+    date: string;
+    type: 'lunch' | 'dinner';
+    menuId: string;
+    menuName: string;
+    foodSlots: string; // Format: "2,130;5,200;8,50"
+    status: 'pending' | 'processing' | 'completed' | 'failed';
+    createdAt: string;
+    completedAt?: string;
+}
+
+export interface StudentPickupRequest {
+    studentId: string;
+    date: string;
+    type: 'lunch' | 'dinner';
+}

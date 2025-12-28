@@ -32,7 +32,7 @@ export async function GET(req: NextRequest) {
         return NextResponse.json(closedVotes);
     }
 
-    return NextResponse.json(votes.votes);
+    return NextResponse.json(votes);
 }
 
 export async function POST(req: NextRequest) {
