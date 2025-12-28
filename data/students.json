@@ -857,6 +857,3438 @@
           }
         }
       }
+    },
+    {
+      "studentId": "HNeighty4",
+      "name": "Đinh Thị Anh Thư",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_n5zwbu": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_4skokb": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_q3ia3i": {
+            "rawWeight": 200,
+            "calo": 82
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 100,
+            "calo": 103
+          },
+          "FOOD_o2cv40": {
+            "rawWeight": 150,
+            "calo": 44
+          },
+          "FOOD_djicki": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 100,
+            "calo": 107
+          },
+          "FOOD_rmvlv5": {
+            "rawWeight": 150,
+            "calo": 65
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 100,
+            "calo": 204
+          },
+          "FOOD_ee8lsp": {
+            "rawWeight": 150,
+            "calo": 49
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 150,
+            "calo": 194
+          },
+          "FOOD_edyy1x": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 150,
+            "calo": 143
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 100,
+            "calo": 150
+          },
+          "FOOD_emv17t": {
+            "rawWeight": 15,
+            "calo": 84
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 200,
+            "calo": 215
+          },
+          "FOOD_aq9hog": {
+            "rawWeight": 100,
+            "calo": 13
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 145
+          },
+          "FOOD_u2yb3t": {
+            "rawWeight": 200,
+            "calo": 82
+          },
+          "FOOD_cm0gyi": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 100,
+            "calo": 170
+          },
+          "FOOD_ktxcto": {
+            "rawWeight": 150,
+            "calo": 44
+          },
+          "FOOD_wn5cgx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fnj8s1": {
+            "rawWeight": 200,
+            "calo": 20
+          },
+          "FOOD_fh594s": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "rawWeight": 150,
+            "calo": 53
+          },
+          "FOOD_2rderx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 100,
+            "calo": 175
+          },
+          "FOOD_b94jp2": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_scojrq": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 100,
+            "calo": 123
+          },
+          "FOOD_va2bsc": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_mbnwnx": {
+            "rawWeight": 150,
+            "calo": 38
+          },
+          "FOOD_38g89f": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 100,
+            "calo": 136
+          },
+          "FOOD_ap6hwr": {
+            "rawWeight": 150,
+            "calo": 20
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 290
+          },
+          "FOOD_rkbw4r": {
+            "rawWeight": 150,
+            "calo": 25
+          },
+          "FOOD_evrvcz": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_bu0m5y": {
+            "rawWeight": 150,
+            "calo": 38
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "rawWeight": 150,
+            "calo": 42
+          },
+          "FOOD_ocxrt1": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_kkxzk9": {
+            "rawWeight": 200,
+            "calo": 58
+          },
+          "FOOD_w62qn7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty5",
+      "name": "Đỗ Minh Hiếu",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_n5zwbu": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_4skokb": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "rawWeight": 200,
+            "calo": 82
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_o2cv40": {
+            "rawWeight": 250,
+            "calo": 73
+          },
+          "FOOD_djicki": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_rmvlv5": {
+            "rawWeight": 200,
+            "calo": 87
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 200,
+            "calo": 273
+          },
+          "FOOD_ee8lsp": {
+            "rawWeight": 150,
+            "calo": 73
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 225
+          },
+          "FOOD_emv17t": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 250,
+            "calo": 190
+          },
+          "FOOD_aq9hog": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fnj8s1": {
+            "rawWeight": 200,
+            "calo": 20
+          },
+          "FOOD_fh594s": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 200,
+            "calo": 187
+          },
+          "FOOD_263jt2": {
+            "rawWeight": 200,
+            "calo": 70
+          },
+          "FOOD_2rderx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 200,
+            "calo": 175
+          },
+          "FOOD_u2yb3t": {
+            "rawWeight": 200,
+            "calo": 82
+          },
+          "FOOD_cm0gyi": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "rawWeight": 100,
+            "calo": 29
+          },
+          "FOOD_wn5cgx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 200,
+            "calo": 190
+          },
+          "FOOD_b94jp2": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_scojrq": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_va2bsc": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 150,
+            "calo": 165
+          },
+          "FOOD_mbnwnx": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_38g89f": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 200,
+            "calo": 240
+          },
+          "FOOD_rkbw4r": {
+            "rawWeight": 200,
+            "calo": 57
+          },
+          "FOOD_evrvcz": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 250,
+            "calo": 198
+          },
+          "FOOD_1f8yq5": {
+            "rawWeight": 200,
+            "calo": 57
+          },
+          "FOOD_ocxrt1": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 250,
+            "calo": 267
+          },
+          "FOOD_kkxzk9": {
+            "rawWeight": 200,
+            "calo": 58
+          },
+          "FOOD_w62qn7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty6",
+      "name": "Hà Anh Thơ",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_n5zwbu": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_4skokb": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "rawWeight": 150,
+            "calo": 62
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_o2cv40": {
+            "rawWeight": 150,
+            "calo": 44
+          },
+          "FOOD_djicki": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "rawWeight": 150,
+            "calo": 65
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 200,
+            "calo": 272
+          },
+          "FOOD_ee8lsp": {
+            "rawWeight": 100,
+            "calo": 49
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 150
+          },
+          "FOOD_emv17t": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 250,
+            "calo": 228
+          },
+          "FOOD_aq9hog": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fnj8s1": {
+            "rawWeight": 200,
+            "calo": 20
+          },
+          "FOOD_fh594s": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "rawWeight": 150,
+            "calo": 53
+          },
+          "FOOD_2rderx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 225
+          },
+          "FOOD_u2yb3t": {
+            "rawWeight": 150,
+            "calo": 62
+          },
+          "FOOD_cm0gyi": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "rawWeight": 150,
+            "calo": 44
+          },
+          "FOOD_wn5cgx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_b94jp2": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_scojrq": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_va2bsc": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_38g89f": {
+            "rawWeight": 15,
+            "calo": 84
+          },
+          "FOOD_mbnwnx": {
+            "rawWeight": 200,
+            "calo": 50
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 200,
+            "calo": 290
+          },
+          "FOOD_rkbw4r": {
+            "rawWeight": 200,
+            "calo": 54
+          },
+          "FOOD_evrvcz": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "rawWeight": 150,
+            "calo": 42
+          },
+          "FOOD_ocxrt1": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_kkxzk9": {
+            "rawWeight": 200,
+            "calo": 58
+          },
+          "FOOD_w62qn7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty7",
+      "name": "Hạng Thị Linh Chi",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_n5zwbu": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_4skokb": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "rawWeight": 150,
+            "calo": 62
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_o2cv40": {
+            "rawWeight": 150,
+            "calo": 44
+          },
+          "FOOD_djicki": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 150
+          },
+          "FOOD_rmvlv5": {
+            "rawWeight": 150,
+            "calo": 65
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 200,
+            "calo": 272
+          },
+          "FOOD_ee8lsp": {
+            "rawWeight": 100,
+            "calo": 49
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 150
+          },
+          "FOOD_emv17t": {
+            "rawWeight": 10,
+            "calo": 56
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 249,
+            "calo": 228
+          },
+          "FOOD_aq9hog": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fnj8s1": {
+            "rawWeight": 200,
+            "calo": 20
+          },
+          "FOOD_fh594s": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "rawWeight": 150,
+            "calo": 53
+          },
+          "FOOD_2rderx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 225
+          },
+          "FOOD_u2yb3t": {
+            "rawWeight": 150,
+            "calo": 62
+          },
+          "FOOD_cm0gyi": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "rawWeight": 150,
+            "calo": 44
+          },
+          "FOOD_wn5cgx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_b94jp2": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_scojrq": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_va2bsc": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_mbnwnx": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_38g89f": {
+            "rawWeight": 15,
+            "calo": 84
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 200,
+            "calo": 290
+          },
+          "FOOD_rkbw4r": {
+            "rawWeight": 200,
+            "calo": 54
+          },
+          "FOOD_evrvcz": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "rawWeight": 150,
+            "calo": 42
+          },
+          "FOOD_ocxrt1": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_kkxzk9": {
+            "rawWeight": 200,
+            "calo": 0
+          },
+          "FOOD_w62qn7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty8",
+      "name": "Hoàng Đức Mạnh",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 100,
+            "calo": 91
+          },
+          "FOOD_n5zwbu": {
+            "rawWeight": 250,
+            "calo": 34
+          },
+          "FOOD_4skokb": {
+            "rawWeight": 30,
+            "calo": 169
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "rawWeight": 250,
+            "calo": 103
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 100,
+            "calo": 103
+          },
+          "FOOD_o2cv40": {
+            "rawWeight": 200,
+            "calo": 58
+          },
+          "FOOD_djicki": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "rawWeight": 150,
+            "calo": 85
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 100,
+            "calo": 136
+          },
+          "FOOD_ee8lsp": {
+            "rawWeight": 150,
+            "calo": 73
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 15,
+            "calo": 84
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 150,
+            "calo": 194
+          },
+          "FOOD_edyy1x": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 225
+          },
+          "FOOD_emv17t": {
+            "rawWeight": 15,
+            "calo": 84
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 200,
+            "calo": 152
+          },
+          "FOOD_aq9hog": {
+            "rawWeight": 150,
+            "calo": 19
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 100,
+            "calo": 91
+          },
+          "FOOD_fnj8s1": {
+            "rawWeight": 200,
+            "calo": 20
+          },
+          "FOOD_fh594s": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "rawWeight": 200,
+            "calo": 70
+          },
+          "FOOD_2rderx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 100,
+            "calo": 175
+          },
+          "FOOD_u2yb3t": {
+            "rawWeight": 200,
+            "calo": 82
+          },
+          "FOOD_cm0gyi": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "rawWeight": 200,
+            "calo": 58
+          },
+          "FOOD_wn5cgx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 190
+          },
+          "FOOD_b94jp2": {
+            "rawWeight": 200,
+            "calo": 25
+          },
+          "FOOD_scojrq": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_va2bsc": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 150,
+            "calo": 165
+          },
+          "FOOD_mbnwnx": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_38g89f": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 240
+          },
+          "FOOD_rkbw4r": {
+            "rawWeight": 200,
+            "calo": 57
+          },
+          "FOOD_evrvcz": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_bu0m5y": {
+            "calo": 50,
+            "rawWeight": 200
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 150,
+            "calo": 198
+          },
+          "FOOD_1f8yq5": {
+            "rawWeight": 200,
+            "calo": 57
+          },
+          "FOOD_ocxrt1": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_kkxzk9": {
+            "rawWeight": 200,
+            "calo": 58
+          },
+          "FOOD_w62qn7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty9",
+      "name": "La Văn Quý",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_n5zwbu": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_4skokb": {
+            "rawWeight": 20,
+            "calo": 113
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "rawWeight": 150,
+            "calo": 62
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "calo": 44,
+            "rawWeight": 150
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "calo": 65,
+            "rawWeight": 150
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ee8lsp": {
+            "calo": 49,
+            "rawWeight": 100
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_emv17t": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_jht0sa": {
+            "calo": 150,
+            "rawWeight": 100
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 200,
+            "calo": 152
+          },
+          "FOOD_aq9hog": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_2rderx": {
+            "calo": 0,
+            "rawWeight": 0
+          },
+          "FOOD_263jt2": {
+            "rawWeight": 150,
+            "calo": 53
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 225
+          },
+          "FOOD_u2yb3t": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_cm0gyi": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "calo": 44,
+            "rawWeight": 150
+          },
+          "FOOD_wn5cgx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_b94jp2": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_scojrq": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_38g89f": {
+            "calo": 84,
+            "rawWeight": 15
+          },
+          "FOOD_mbnwnx": {
+            "calo": 50,
+            "rawWeight": 200
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 100,
+            "calo": 136
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 240
+          },
+          "FOOD_rkbw4r": {
+            "calo": 53,
+            "rawWeight": 200
+          },
+          "FOOD_evrvcz": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "calo": 50,
+            "rawWeight": 200
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "calo": 42,
+            "rawWeight": 150
+          },
+          "FOOD_ocxrt1": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty10",
+      "name": "Lê Như Quỳnh",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_4skokb": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_n5zwbu": {
+            "calo": 27,
+            "rawWeight": 200
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_q3ia3i": {
+            "calo": 82,
+            "rawWeight": 200
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 100,
+            "calo": 103
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "calo": 44,
+            "rawWeight": 150
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "calo": 87,
+            "rawWeight": 200
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ee8lsp": {
+            "calo": 49,
+            "rawWeight": 100
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 150,
+            "calo": 194
+          },
+          "FOOD_edyy1x": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_jht0sa": {
+            "calo": 150,
+            "rawWeight": 100
+          },
+          "FOOD_emv17t": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 200,
+            "calo": 275
+          },
+          "FOOD_aq9hog": {
+            "calo": 13,
+            "rawWeight": 150
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "calo": 53,
+            "rawWeight": 150
+          },
+          "FOOD_2rderx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 180
+          },
+          "FOOD_u2yb3t": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_cm0gyi": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "calo": 44,
+            "rawWeight": 150
+          },
+          "FOOD_wn5cgx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_b94jp2": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_scojrq": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_mbnwnx": {
+            "rawWeight": 200,
+            "calo": 50
+          },
+          "FOOD_38g89f": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 136
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 290
+          },
+          "FOOD_rkbw4r": {
+            "calo": 25,
+            "rawWeight": 150
+          },
+          "FOOD_evrvcz": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "calo": 38,
+            "rawWeight": 150
+          },
+          "FOOD_uayz02": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "calo": 42,
+            "rawWeight": 150
+          },
+          "FOOD_ocxrt1": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty11",
+      "name": "Lò Mai Anh",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_4skokb": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_n5zwbu": {
+            "calo": 27,
+            "rawWeight": 200
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_q3ia3i": {
+            "calo": 82,
+            "rawWeight": 200
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 100,
+            "calo": 103
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "calo": 44,
+            "rawWeight": 150
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "calo": 87,
+            "rawWeight": 200
+          },
+          "FOOD_et26m7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ee8lsp": {
+            "calo": 49,
+            "rawWeight": 100
+          },
+          "FOOD_7jl3q6": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 150,
+            "calo": 194
+          },
+          "FOOD_edyy1x": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_pkcwy4": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_jht0sa": {
+            "calo": 150,
+            "rawWeight": 100
+          },
+          "FOOD_emv17t": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 200,
+            "calo": 275
+          },
+          "FOOD_aq9hog": {
+            "calo": 13,
+            "rawWeight": 150
+          },
+          "FOOD_qgot17": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "calo": 53,
+            "rawWeight": 150
+          },
+          "FOOD_2rderx": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 180
+          },
+          "FOOD_u2yb3t": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_cm0gyi": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "calo": 44,
+            "rawWeight": 150
+          },
+          "FOOD_wn5cgx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_b94jp2": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_scojrq": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_mbnwnx": {
+            "calo": 50,
+            "rawWeight": 200
+          },
+          "FOOD_38g89f": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 136
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 290
+          },
+          "FOOD_rkbw4r": {
+            "calo": 25,
+            "rawWeight": 150
+          },
+          "FOOD_evrvcz": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "calo": 38,
+            "rawWeight": 150
+          },
+          "FOOD_uayz02": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "calo": 42,
+            "rawWeight": 150
+          },
+          "FOOD_ocxrt1": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeigthty12",
+      "name": "Long Thị Tâm Như",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_n5zwbu": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_4skokb": {
+            "calo": 113,
+            "rawWeight": 20
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200247,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_vzy38q": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "calo": 44,
+            "rawWeight": 150
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "calo": 65,
+            "rawWeight": 150
+          },
+          "FOOD_et26m7": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ee8lsp": {
+            "calo": 49,
+            "rawWeight": 100
+          },
+          "FOOD_7jl3q6": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_pkcwy4": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_emv17t": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_jht0sa": {
+            "calo": 150,
+            "rawWeight": 100
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 200,
+            "calo": 152
+          },
+          "FOOD_aq9hog": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_qgot17": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "calo": 53,
+            "rawWeight": 150
+          },
+          "FOOD_2rderx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 150,
+            "calo": 225
+          },
+          "FOOD_u2yb3t": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_cm0gyi": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "calo": 44,
+            "rawWeight": 150
+          },
+          "FOOD_wn5cgx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_b94jp2": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_scojrq": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 150,
+            "calo": 185
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_38g89f": {
+            "calo": 84,
+            "rawWeight": 15
+          },
+          "FOOD_mbnwnx": {
+            "calo": 50,
+            "rawWeight": 200
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 100,
+            "calo": 136
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 240
+          },
+          "FOOD_rkbw4r": {
+            "calo": 53,
+            "rawWeight": 200
+          },
+          "FOOD_evrvcz": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "calo": 50,
+            "rawWeight": 200
+          },
+          "FOOD_uayz02": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "calo": 42,
+            "rawWeight": 150
+          },
+          "FOOD_ocxrt1": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty13",
+      "name": "Nông Quốc Tuấn",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_4skokb": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_n5zwbu": {
+            "calo": 27,
+            "rawWeight": 200
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "calo": 82,
+            "rawWeight": 200
+          },
+          "FOOD_vzy38q": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "calo": 73,
+            "rawWeight": 250
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_rmvlv5": {
+            "calo": 87,
+            "rawWeight": 200
+          },
+          "FOOD_et26m7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 200,
+            "calo": 272
+          },
+          "FOOD_ee8lsp": {
+            "calo": 73,
+            "rawWeight": 150
+          },
+          "FOOD_7jl3q6": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_pkcwy4": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 150,
+            "calo": 191
+          },
+          "FOOD_emv17t": {
+            "calo": 56,
+            "rawWeight": 15
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 225
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 250,
+            "calo": 190
+          },
+          "FOOD_aq9hog": {
+            "calo": 25,
+            "rawWeight": 250
+          },
+          "FOOD_qgot17": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 200,
+            "calo": 187
+          },
+          "FOOD_263jt2": {
+            "calo": 70,
+            "rawWeight": 200
+          },
+          "FOOD_2rderx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 200,
+            "calo": 175
+          },
+          "FOOD_cm0gyi": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_u2yb3t": {
+            "calo": 82,
+            "rawWeight": 200
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "calo": 29,
+            "rawWeight": 100
+          },
+          "FOOD_wn5cgx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 200,
+            "calo": 190
+          },
+          "FOOD_scojrq": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_b94jp2": {
+            "calo": 25,
+            "rawWeight": 200
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 150,
+            "calo": 165
+          },
+          "FOOD_38g89f": {
+            "calo": 56,
+            "rawWeight": 20
+          },
+          "FOOD_mbnwnx": {
+            "calo": 50,
+            "rawWeight": 200
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 200,
+            "calo": 240
+          },
+          "FOOD_evrvcz": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_rkbw4r": {
+            "calo": 57,
+            "rawWeight": 200
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "calo": 50,
+            "rawWeight": 200
+          },
+          "FOOD_uayz02": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 250,
+            "calo": 198
+          },
+          "FOOD_ocxrt1": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_1f8yq5": {
+            "calo": 57,
+            "rawWeight": 200
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 250,
+            "calo": 267
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "Hneighty14",
+      "name": "Nông Thị Ngân Thương",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_4skokb": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_n5zwbu": {
+            "calo": 27,
+            "rawWeight": 200
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_vzy38q": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "rawWeight": 150,
+            "calo": 44
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 150,
+            "calo": 160
+          },
+          "FOOD_rmvlv5": {
+            "calo": 65,
+            "rawWeight": 150
+          },
+          "FOOD_et26m7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 200,
+            "calo": 272
+          },
+          "FOOD_ee8lsp": {
+            "calo": 49,
+            "rawWeight": 100
+          },
+          "FOOD_7jl3q6": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_pkcwy4": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_emv17t": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 150
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 250,
+            "calo": 228
+          },
+          "FOOD_aq9hog": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_qgot17": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 150,
+            "calo": 140
+          },
+          "FOOD_263jt2": {
+            "calo": 53,
+            "rawWeight": 150
+          },
+          "FOOD_2rderx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 200,
+            "calo": 285
+          },
+          "FOOD_u2yb3t": {
+            "calo": 62,
+            "rawWeight": 150
+          },
+          "FOOD_cm0gyi": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "calo": 44,
+            "rawWeight": 150
+          },
+          "FOOD_wn5cgx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 200,
+            "calo": 290
+          },
+          "FOOD_b94jp2": {
+            "calo": 53,
+            "rawWeight": 200
+          },
+          "FOOD_scojrq": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 100,
+            "calo": 115
+          },
+          "FOOD_38g89f": {
+            "calo": 84,
+            "rawWeight": 15
+          },
+          "FOOD_mbnwnx": {
+            "calo": 50,
+            "rawWeight": 200
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 150,
+            "calo": 215
+          },
+          "FOOD_rkbw4r": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_evrvcz": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_bu0m5y": {
+            "rawWeight": 200,
+            "calo": 27
+          },
+          "FOOD_uayz02": {
+            "rawWeight": 0,
+            "calo": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 200,
+            "calo": 218
+          },
+          "FOOD_1f8yq5": {
+            "calo": 42,
+            "rawWeight": 150
+          },
+          "FOOD_ocxrt1": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        }
+      }
+    },
+    {
+      "studentId": "HNeighty15",
+      "name": "Nông Văn Toàn",
+      "menuConfigs": {
+        "MENU_wuq2uh": {
+          "FOOD_26k2g4": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_4skokb": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_n5zwbu": {
+            "calo": 27,
+            "rawWeight": 200
+          }
+        },
+        "MENU_49m28w": {
+          "FOOD_bi1j30": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_q3ia3i": {
+            "calo": 82,
+            "rawWeight": 200
+          },
+          "FOOD_vzy38q": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_3jb2jt": {
+          "FOOD_3sy1x3": {
+            "rawWeight": 150,
+            "calo": 155
+          },
+          "FOOD_djicki": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_o2cv40": {
+            "calo": 73,
+            "rawWeight": 250
+          }
+        },
+        "MENU_c2498f": {
+          "FOOD_k8s1jg": {
+            "rawWeight": 200,
+            "calo": 214
+          },
+          "FOOD_rmvlv5": {
+            "calo": 87,
+            "rawWeight": 200
+          },
+          "FOOD_et26m7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_v7py49": {
+          "FOOD_wfb1u0": {
+            "rawWeight": 200,
+            "calo": 272
+          },
+          "FOOD_ee8lsp": {
+            "calo": 73,
+            "rawWeight": 150
+          },
+          "FOOD_7jl3q6": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_0ro4ww": {
+          "FOOD_z4hpp8": {
+            "rawWeight": 200,
+            "calo": 259
+          },
+          "FOOD_edyy1x": {
+            "calo": 19,
+            "rawWeight": 150
+          },
+          "FOOD_pkcwy4": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_pk97fz": {
+          "FOOD_knc6h1": {
+            "rawWeight": 200,
+            "calo": 191
+          },
+          "FOOD_emv17t": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_jht0sa": {
+            "rawWeight": 150,
+            "calo": 225
+          }
+        },
+        "MENU_nmecwm": {
+          "FOOD_qql8xm": {
+            "rawWeight": 250,
+            "calo": 190
+          },
+          "FOOD_aq9hog": {
+            "calo": 25,
+            "rawWeight": 200
+          },
+          "FOOD_qgot17": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_z1sqta": {
+          "FOOD_ojinui": {
+            "rawWeight": 150,
+            "calo": 137
+          },
+          "FOOD_fh594s": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_fnj8s1": {
+            "calo": 20,
+            "rawWeight": 200
+          }
+        },
+        "MENU_ptldct": {
+          "FOOD_iqz3pa": {
+            "rawWeight": 200,
+            "calo": 187
+          },
+          "FOOD_263jt2": {
+            "calo": 70,
+            "rawWeight": 200
+          },
+          "FOOD_2rderx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_c4n2gj": {
+          "FOOD_4af0bw": {
+            "rawWeight": 200,
+            "calo": 175
+          },
+          "FOOD_cm0gyi": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_u2yb3t": {
+            "calo": 82,
+            "rawWeight": 200
+          }
+        },
+        "MENU_citfxu": {
+          "FOOD_viyve3": {
+            "rawWeight": 200,
+            "calo": 220
+          },
+          "FOOD_ktxcto": {
+            "rawWeight": 100,
+            "calo": 29
+          },
+          "FOOD_wn5cgx": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_abmo2a": {
+          "FOOD_lb3cxa": {
+            "rawWeight": 200,
+            "calo": 190
+          },
+          "FOOD_scojrq": {
+            "calo": 113,
+            "rawWeight": 20
+          },
+          "FOOD_b94jp2": {
+            "calo": 25,
+            "rawWeight": 200
+          }
+        },
+        "MENU_7vceib": {
+          "FOOD_110bw4": {
+            "rawWeight": 200,
+            "calo": 247
+          },
+          "FOOD_va2bsc": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_a2xk8d": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_i10g3l": {
+          "FOOD_qw1iwq": {
+            "rawWeight": 150,
+            "calo": 165
+          },
+          "FOOD_38g89f": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_mbnwnx": {
+            "calo": 50,
+            "rawWeight": 200
+          }
+        },
+        "MENU_5n8djs": {
+          "FOOD_0igmm0": {
+            "rawWeight": 150,
+            "calo": 204
+          },
+          "FOOD_ap6hwr": {
+            "calo": 27,
+            "rawWeight": 200
+          },
+          "FOOD_zaaprs": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_hy9ktm": {
+          "FOOD_nng5f7": {
+            "rawWeight": 200,
+            "calo": 240
+          },
+          "FOOD_evrvcz": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_rkbw4r": {
+            "calo": 57,
+            "rawWeight": 200
+          }
+        },
+        "MENU_kllrh2": {
+          "FOOD_zsqyek": {
+            "rawWeight": 200,
+            "calo": 183
+          },
+          "FOOD_bu0m5y": {
+            "calo": 50,
+            "rawWeight": 200
+          },
+          "FOOD_uayz02": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        },
+        "MENU_g2ie7q": {
+          "FOOD_ev3wcc": {
+            "rawWeight": 250,
+            "calo": 198
+          },
+          "FOOD_ocxrt1": {
+            "calo": 56,
+            "rawWeight": 10
+          },
+          "FOOD_1f8yq5": {
+            "calo": 57,
+            "rawWeight": 200
+          }
+        },
+        "MENU_51khux": {
+          "FOOD_7dzwdm": {
+            "rawWeight": 250,
+            "calo": 267
+          },
+          "FOOD_kkxzk9": {
+            "calo": 58,
+            "rawWeight": 200
+          },
+          "FOOD_w62qn7": {
+            "calo": 0,
+            "rawWeight": 0
+          }
+        }
+      }
     }
   ]
 }
