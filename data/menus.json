@@ -12,12 +12,12 @@
         {
           "itemId": "FOOD_n5zwbu",
           "name": "Súp lơ xanh",
-          "category": "Chất xơ"
+          "category": "Xơ"
         },
         {
           "itemId": "FOOD_4skokb",
           "name": "Lạc hạt ",
-          "category": "Chất béo"
+          "category": "Béo"
         }
       ]
     },
@@ -33,12 +33,12 @@
         {
           "itemId": "FOOD_q3ia3i",
           "name": "Rau giền luộc",
-          "category": "chất xơ"
+          "category": "Xơ"
         },
         {
           "itemId": "FOOD_vzy38q",
           "name": "Lạc hạt",
-          "category": "chất béo"
+          "category": "Béo"
         }
       ]
     },
@@ -54,12 +54,12 @@
         {
           "itemId": "FOOD_o2cv40",
           "name": "Rau bắp cải luộc",
-          "category": "Chất xơ"
+          "category": "Xơ"
         },
         {
           "itemId": "FOOD_djicki",
           "name": "Lạc hạt",
-          "category": "chất béo"
+          "category": "Béo"
         }
       ]
     },
@@ -75,12 +75,12 @@
         {
           "itemId": "FOOD_rmvlv5",
           "name": "Rau giền luộc",
-          "category": "Chất xơ"
+          "category": "Xơ"
         },
         {
           "itemId": "FOOD_et26m7",
           "name": "Lạc hạt",
-          "category": "Chất béo"
+          "category": "Béo"
         }
       ]
     },
