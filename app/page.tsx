@@ -6,6 +6,8 @@ export default function Home() {
       <Link href={'/menus'}>di toi /menus de them mon an</Link>
       <hr />
       <Link href={'/students'}>di toi /student de them mon an</Link>
+      <hr />
+      <Link href={'/admin/dashboard'}>di toi /admin/dashboard </Link>
     </div>
 
   );

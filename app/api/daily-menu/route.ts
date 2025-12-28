@@ -13,6 +13,7 @@ export async function GET() {
     return NextResponse.json(data);
 }
 
+//tao vote
 export async function POST(req: NextRequest) {
     const url = req.nextUrl;
     const date = url.searchParams.get("date") || "";

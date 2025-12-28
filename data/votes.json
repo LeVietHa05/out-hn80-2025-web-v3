@@ -1,6 +1,6 @@
 [
   {
-    "date": "27-12-2025",
+    "date": "2025-12-27",
     "type": "dinner",
     "menus": [
       {
@@ -14,7 +14,8 @@
         "menuId": "MENU_i10g3l",
         "name": "menu 15",
         "votedStudentIds": [
-          "testid2"
+          "testid2",
+          "testid3"
         ]
       },
       {
@@ -23,7 +24,11 @@
         "votedStudentIds": []
       }
     ],
-    "winner": null,
-    "totalRaw": {}
+    "winner": "MENU_i10g3l",
+    "totalRaw": {
+      "Ức gà xé": 1800,
+      "Rau muống luộc": 2950,
+      "Lạc hạt": 195
+    }
   }
 ]

@@ -23,3 +23,22 @@ export interface MenuVote {
     name: string,
     votedStudentIds: string[]
 }
+
+export interface Student {
+    studentId: string;
+    name: string;
+    menuConfigs: {
+        [menuKey: string]: {
+            [foodKey: string]: {
+                rawWeight: number;
+                calo: number;
+            }
+        }
+    };
+}
+
+export interface AdminOverview {
+    menuCount: number,
+    studentCount: number,
+    activeVotes: Vote[]
+}
