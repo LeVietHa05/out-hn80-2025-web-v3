@@ -7,6 +7,7 @@ const FILE = "votes.json";
 export async function GET(req: NextRequest) {
     const { searchParams } = new URL(req.url);
     const status = searchParams.get('status'); // 'active' hoặc 'closed'
+    const date = searchParams.get('date'); // 'active' hoặc 'closed'
 
     const votes = readJSON(FILE) || { votes: [] };
     const menus = readJSON("menus.json") || { menus: [] };
@@ -30,6 +31,11 @@ export async function GET(req: NextRequest) {
     if (status === 'closed') {
         const closedVotes = votes.filter((v: Vote) => v.winner);
         return NextResponse.json(closedVotes);
+    }
+
+    if (date) {
+        const votesForDate = votes.filter((v: Vote) => v.date == date)
+        return NextResponse.json(votesForDate);
     }
 
     return NextResponse.json(votes);

@@ -1,4 +1,17 @@
 {
   "queue": [],
-  "completed": []
+  "completed": [
+    {
+      "studentId": "HNeighty2",
+      "studentName": "Bế Hồng Lam",
+      "date": "2025-12-28",
+      "type": "lunch",
+      "menuId": "MENU_i10g3l",
+      "menuName": "menu 15",
+      "foodSlots": "2,150;5,200;8,20",
+      "status": "completed",
+      "createdAt": "2025-12-28T13:31:35.917Z",
+      "completedAt": "2025-12-29T07:59:05.901Z"
+    }
+  ]
 }

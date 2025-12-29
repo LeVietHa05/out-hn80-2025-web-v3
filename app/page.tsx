@@ -5,7 +5,7 @@ export default function Home() {
     <div >
       <Link href={'/menus'}>di toi /menus de them mon an</Link>
       <hr />
-      <Link href={'/students'}>di toi /student de them mon an</Link>
+      <Link href={'/students/add'}>di toi /student/add de them mon an</Link>
       <hr />
       <Link href={'/admin/dashboard'}>di toi /admin/dashboard </Link>
     </div>
