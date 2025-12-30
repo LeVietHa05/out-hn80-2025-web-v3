@@ -61,5 +61,150 @@
       "Rau muống luộc": 3150,
       "Lạc hạt": 215
     }
+  },
+  {
+    "date": "2025-12-30",
+    "type": "lunch",
+    "menus": [
+      {
+        "menuId": "MENU_z1sqta",
+        "name": "menu 9",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_nmecwm",
+        "name": "menu 8",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_c2498f",
+        "name": "menu 4",
+        "votedStudentIds": [
+          "HNeighty16"
+        ]
+      }
+    ],
+    "winner": "MENU_c2498f",
+    "totalRaw": {
+      "Cá trôi rán sốt cà chua": 2950,
+      "Rau giền luộc": 3150,
+      "Lạc hạt": 0
+    }
+  },
+  {
+    "date": "2025-12-31",
+    "type": "lunch",
+    "menus": [
+      {
+        "menuId": "MENU_7vceib",
+        "name": "menu 14",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_g2ie7q",
+        "name": "menu 19",
+        "votedStudentIds": [
+          "HNeighty3"
+        ]
+      },
+      {
+        "menuId": "MENU_v7py49",
+        "name": "menu 5",
+        "votedStudentIds": []
+      }
+    ],
+    "winner": "MENU_g2ie7q",
+    "totalRaw": {
+      "Cá hấp gừng": 3650,
+      "Rau bắp cải luộc": 3100,
+      "Lạc hạt": 150
+    }
+  },
+  {
+    "date": "2025-12-31",
+    "type": "dinner",
+    "menus": [
+      {
+        "menuId": "MENU_i10g3l",
+        "name": "menu 15",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_wuq2uh",
+        "name": "menu 1",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_abmo2a",
+        "name": "menu 13",
+        "votedStudentIds": [
+          "HNeighty3"
+        ]
+      }
+    ],
+    "winner": "MENU_abmo2a",
+    "totalRaw": {
+      "Cá diêu hồng hấp": 2940,
+      "Bí xanh luộc": 3540,
+      "Lạc hạt": 190
+    }
+  },
+  {
+    "date": "2026-01-01",
+    "type": "dinner",
+    "menus": [
+      {
+        "menuId": "MENU_pk97fz",
+        "name": "menu 7",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_0ro4ww",
+        "name": "menu 6",
+        "votedStudentIds": [
+          "HNeighty3"
+        ]
+      },
+      {
+        "menuId": "MENU_v7py49",
+        "name": "menu 5",
+        "votedStudentIds": []
+      }
+    ],
+    "winner": "MENU_0ro4ww",
+    "totalRaw": {
+      "Cá rô đồng gián": 3350,
+      "Bí xanh luộc": 2800,
+      "Lạc hạt": 0
+    }
+  },
+  {
+    "date": "2026-01-01",
+    "type": "lunch",
+    "menus": [
+      {
+        "menuId": "MENU_5n8djs",
+        "name": "menu 16",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_51khux",
+        "name": "menu 20",
+        "votedStudentIds": []
+      },
+      {
+        "menuId": "MENU_wuq2uh",
+        "name": "menu 1",
+        "votedStudentIds": [
+          "HNeighty3"
+        ]
+      }
+    ],
+    "winner": "MENU_wuq2uh",
+    "totalRaw": {
+      "Cá trắm cỏ": 2850,
+      "Súp lơ xanh": 3850,
+      "Lạc hạt ": 390
+    }
   }
 ]

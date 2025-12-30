@@ -131,7 +131,7 @@ export default function StudentVotingPage() {
     };
 
     return (
-        <div className="min-h-screen bg-gradient-to-br from-green-50 to-blue-50 p-4 md:p-8">
+        <div className="min-h-screen bg-gradient-to-br from-green-100 to-blue-50 p-4 md:p-8">
             <div className="max-w-6xl mx-auto">
                 {/* Header */}
                 <div className="border-4 border-black bg-white p-6 mb-8 shadow-[8px_8px_0_0_#000]">

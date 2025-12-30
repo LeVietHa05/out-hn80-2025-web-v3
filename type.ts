@@ -28,14 +28,16 @@ export interface MenuVote {
 export interface Student {
     studentId: string;
     name: string;
-    menuConfigs: {
-        [menuKey: string]: {
-            [foodKey: string]: {
-                rawWeight: number;
-                calo: number;
-            }
+    menuConfigs: StudentMenuConfig
+}
+
+export interface StudentMenuConfig {
+    [menuKey: string]: {
+        [foodKey: string]: {
+            rawWeight: number;
+            calo: number;
         }
-    };
+    }
 }
 
 export interface AdminOverview {
