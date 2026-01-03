@@ -43,10 +43,10 @@ export default function HomePage() {
           </h1>
           <div className="h-3 w-48 bg-gradient-to-r from-pink-400 to-indigo-400 mx-auto mb-6"></div>
           <p className="text-xl md:text-2xl font-bold text-gray-700 mb-2">
-            Hệ thống quản lý canteen thông minh
+            Hệ thống quản lí bếp ăn thông minh
           </p>
           <p className="text-lg text-gray-600">
-            Tự động hóa quy trình bỏ phiếu, phân phối và quản lý bữa ăn
+            Tự động hóa quy trình lựa chọn món ăn, phân phối và quản lí bữa ăn.
           </p>
         </div>
 
@@ -136,8 +136,10 @@ export default function HomePage() {
               </svg>
             </div>
           </Link>
+        </div>
 
-          {/* For Admin - Dashboard */}
+        {/* For Admin - Dashboard */}
+        <div className={` gr`}>
           <div
             onClick={handleAdminAccess}
             className={`border-4 ${adminAuthenticated ? 'border-green-500' : 'border-black'} bg-white p-8 cursor-pointer hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2`}
@@ -157,12 +159,72 @@ export default function HomePage() {
               Quản lý học sinh, menu, và theo dõi hệ thống
             </p>
             {adminAuthenticated ? (
-              <Link href="/admin/dashboard" className="flex items-center text-green-600 font-bold">
-                <span>Truy cập Dashboard</span>
-                <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
-                </svg>
-              </Link>
+              <div className={` grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8`}>
+                <Link
+                  href="/admin/dashboard"
+                  className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
+                >
+                  <div className="flex items-center gap-4 mb-6">
+                    <div className="w-12 h-12 bg-purple-100 border-2 border-black flex items-center justify-center">
+                      <span className="text-2xl">👨‍🎓</span>
+                    </div>
+                    <h2 className="text-2xl font-black text-black">Quản lý</h2>
+                  </div>
+                  <p className="text-gray-600 mb-6">
+                    Truy cập Dashboard
+                  </p>
+                  <div className="flex items-center text-purple-600 font-bold">
+                    <span>Truy cập ngay</span>
+                    <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                </Link>
+
+                {/* For Admin - Add Student */}
+                <Link
+                  href="/students/add"
+                  className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
+                >
+                  <div className="flex items-center gap-4 mb-6">
+                    <div className="w-12 h-12 bg-purple-100 border-2 border-black flex items-center justify-center">
+                      <span className="text-2xl">👨‍🎓</span>
+                    </div>
+                    <h2 className="text-2xl font-black text-black">Thêm HS</h2>
+                  </div>
+                  <p className="text-gray-600 mb-6">
+                    Thêm học sinh mới và cấu hình khẩu phần ăn
+                  </p>
+                  <div className="flex items-center text-purple-600 font-bold">
+                    <span>Truy cập ngay</span>
+                    <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                </Link>
+
+                {/* For Admin - View Menus */}
+                <Link
+                  href="/menus"
+                  className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
+                >
+                  <div className="flex items-center gap-4 mb-6">
+                    <div className="w-12 h-12 bg-pink-100 border-2 border-black flex items-center justify-center">
+                      <span className="text-2xl">📋</span>
+                    </div>
+                    <h2 className="text-2xl font-black text-black">Danh Sách Món</h2>
+                  </div>
+                  <p className="text-gray-600 mb-6">
+                    Xem và quản lý tất cả menu có sẵn
+                  </p>
+                  <div className="flex items-center text-pink-600 font-bold">
+                    <span>Truy cập ngay</span>
+                    <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                </Link>
+              </div>
             ) : (
               <div className="flex items-center text-red-600 font-bold">
                 <span>Nhấn để xác thực</span>
@@ -173,49 +235,7 @@ export default function HomePage() {
             )}
           </div>
 
-          {/* For Admin - Add Student */}
-          <Link
-            href="/students/add"
-            className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
-          >
-            <div className="flex items-center gap-4 mb-6">
-              <div className="w-12 h-12 bg-purple-100 border-2 border-black flex items-center justify-center">
-                <span className="text-2xl">👨‍🎓</span>
-              </div>
-              <h2 className="text-2xl font-black text-black">Thêm HS</h2>
-            </div>
-            <p className="text-gray-600 mb-6">
-              Thêm học sinh mới và cấu hình khẩu phần ăn
-            </p>
-            <div className="flex items-center text-purple-600 font-bold">
-              <span>Truy cập ngay</span>
-              <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
-                <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
-              </svg>
-            </div>
-          </Link>
 
-          {/* For Admin - View Menus */}
-          <Link
-            href="/menus"
-            className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
-          >
-            <div className="flex items-center gap-4 mb-6">
-              <div className="w-12 h-12 bg-pink-100 border-2 border-black flex items-center justify-center">
-                <span className="text-2xl">📋</span>
-              </div>
-              <h2 className="text-2xl font-black text-black">Danh Sách Món</h2>
-            </div>
-            <p className="text-gray-600 mb-6">
-              Xem và quản lý tất cả menu có sẵn
-            </p>
-            <div className="flex items-center text-pink-600 font-bold">
-              <span>Truy cập ngay</span>
-              <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
-                <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
-              </svg>
-            </div>
-          </Link>
         </div>
 
         {/* Password Modal */}

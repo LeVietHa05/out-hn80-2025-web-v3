@@ -116,10 +116,10 @@ export default function StudentPickupPage() {
             <div className="max-w-6xl mx-auto">
                 {/* Header */}
                 <div className="border-4 border-black bg-white p-6 mb-8 shadow-[8px_8px_0_0_#000]">
-                    <h1 className="text-4xl md:text-5xl font-black text-black mb-2">🍚 MEAL PICKUP SYSTEM</h1>
+                    <h1 className="text-4xl md:text-5xl font-black text-black mb-2">🍚 ĐĂNG KÝ NHẬN CƠM TẠI MÁY</h1>
                     <div className="h-2 w-32 bg-red-400"></div>
                     <p className="mt-4 text-lg font-bold text-gray-700">
-                        Get your meal from the automated food dispenser
+                        Nhập mã ở đây, nhận cơm ở máy.
                     </p>
                 </div>
 
@@ -130,19 +130,19 @@ export default function StudentPickupPage() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-blue-400"></div>
-                                <h2 className="text-2xl font-black text-black">1.👨‍🎓 STUDENT LOGIN</h2>
+                                <h2 className="text-2xl font-black text-black">1.👨‍🎓 Đăng nhập</h2>
                             </div>
 
                             <div className="space-y-4">
                                 <div>
-                                    <label className="block font-bold mb-2 text-lg">Student ID:</label>
+                                    <label className="block font-bold mb-2 text-lg">Mã Học sinh:</label>
                                     <div className="flex gap-2">
                                         <input
                                             type="text"
                                             value={studentId}
                                             onChange={(e) => setStudentId(e.target.value)}
                                             onKeyPress={(e) => e.key === 'Enter' && checkStudent()}
-                                            placeholder="Enter your student ID"
+                                            placeholder="Nhập mã hs"
                                             className="flex-1 border-2 border-black p-3 font-bold bg-white focus:outline-none focus:ring-2 focus:ring-blue-400"
                                         />
                                         <button
@@ -150,7 +150,7 @@ export default function StudentPickupPage() {
                                             disabled={loading || !studentId.trim()}
                                             className="px-6 py-3 bg-black text-white font-bold hover:bg-gray-800 disabled:bg-gray-400 disabled:cursor-not-allowed transition-all border-2 border-black"
                                         >
-                                            {loading ? "..." : "CHECK"}
+                                            {loading ? "..." : "Tìm"}
                                         </button>
                                     </div>
                                 </div>
@@ -176,13 +176,13 @@ export default function StudentPickupPage() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-green-400"></div>
-                                <h2 className="text-2xl font-black text-black">2.🍽️ AVAILABLE MEALS</h2>
+                                <h2 className="text-2xl font-black text-black">2.🍽️ Danh sách bữa ăn khả dụng</h2>
                             </div>
 
                             {todayVotes.length === 0 ? (
                                 <div className="border-2 border-dashed border-gray-400 p-8 text-center">
-                                    <div className="text-lg font-bold text-gray-500">No meals available today</div>
-                                    <p className="text-gray-600 mt-2">Check back during meal times</p>
+                                    <div className="text-lg font-bold text-gray-500">Hôm nay không có rồi.</div>
+                                    <p className="text-gray-600 mt-2">Check lại sau, báo lại thầy cô phụ trách nhé.</p>
                                 </div>
                             ) : (
                                 <div className="space-y-4">
@@ -217,12 +217,12 @@ export default function StudentPickupPage() {
 
                                                 {winnerMeal ? (
                                                     <div className="mt-2">
-                                                        <div className="font-bold">WINNER Meal:</div>
+                                                        <div className="font-bold">Menu được bình chọn nhiều nhất:</div>
                                                         <div className="text-lg font-black">{vote.date} - {vote.type} - {winnerMeal.name} </div>
                                                     </div>
                                                 ) : (
                                                     <div className="mt-2">
-                                                        <div className="font-bold">Something Wrong</div>
+                                                        <div className="font-bold">Có lỗi</div>
                                                     </div>
                                                 )
                                                 }
@@ -240,16 +240,16 @@ export default function StudentPickupPage() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-red-400"></div>
-                                <h2 className="text-2xl font-black text-black">3.🤖 PICKUP REQUEST</h2>
+                                <h2 className="text-2xl font-black text-black">3.🤖 Xác nhận món</h2>
                             </div>
 
                             {!student ? (
                                 <div className="border-2 border-dashed border-gray-400 p-8 text-center">
-                                    <div className="text-lg font-bold text-gray-500">Enter your Student ID first</div>
+                                    <div className="text-lg font-bold text-gray-500">Nhập mã hs trước nhé.</div>
                                 </div>
                             ) : !selectedVote ? (
                                 <div className="border-2 border-dashed border-gray-400 p-8 text-center">
-                                    <div className="text-lg font-bold text-gray-500">Select a meal to pick up</div>
+                                    <div className="text-lg font-bold text-gray-500">Chọn bữa trước nhé.</div>
                                 </div>
                             ) : (
                                 <div className="space-y-6">
@@ -258,14 +258,14 @@ export default function StudentPickupPage() {
                                         <div className="flex justify-between items-center mb-3">
                                             <div>
                                                 <h3 className="font-bold text-xl">{selectedVote.type.toUpperCase()}</h3>
-                                                <p className="text-gray-600">Today&apos;s meal</p>
+                                                <p className="text-gray-600">Món hôm nay: </p>
                                             </div>
                                             <div className="text-right">
                                                 <div className="text-sm text-gray-600">Menu</div>
                                                 <div className="font-bold text-lg">
                                                     {selectedVote.menus.find(m =>
                                                         m.menuId == selectedVote.winner
-                                                    )?.name || "Not found"}
+                                                    )?.name || "Không thấy"}
                                                 </div>
                                             </div>
                                         </div>
@@ -279,14 +279,14 @@ export default function StudentPickupPage() {
                                             className="w-full py-4 bg-black text-white text-2xl font-bold hover:bg-gray-800 disabled:bg-gray-400 disabled:cursor-not-allowed transition-all border-4 border-black shadow-[8px_8px_0_0_#000] hover:shadow-[4px_4px_0_0_#000] active:shadow-none"
                                         >
                                             {pickupStatus.loading ? (
-                                                "REQUESTING..."
+                                                "ĐANG YÊU CẦU..."
                                             ) : (
                                                 <div className="flex items-center justify-center gap-3">
                                                     <svg className="w-8 h-8" fill="currentColor" viewBox="0 0 20 20">
                                                         <path d="M13 7H7v6h6V7z" />
                                                         <path fillRule="evenodd" d="M7 2a1 1 0 012 0v1h2V2a1 1 0 112 0v1h2a2 2 0 012 2v2h1a1 1 0 110 2h-1v2h1a1 1 0 110 2h-1v2a2 2 0 01-2 2h-2v1a1 1 0 11-2 0v-1H9v1a1 1 0 11-2 0v-1H5a2 2 0 01-2-2v-2H2a1 1 0 110-2h1V9H2a1 1 0 010-2h1V5a2 2 0 012-2h2V2zM5 5h10v10H5V5z" clipRule="evenodd" />
                                                     </svg>
-                                                    PICK UP MY MEAL
+                                                    NHẬN MÓN
                                                 </div>
                                             )}
                                         </button>
@@ -313,7 +313,7 @@ export default function StudentPickupPage() {
                                                     <div className="font-bold text-lg">{pickupStatus.message}</div>
                                                     {pickupStatus.queueItem && (
                                                         <div className="text-sm text-gray-600 mt-1">
-                                                            Queue ID: {pickupStatus.queueItem.studentId}
+                                                            Mã đơn: {pickupStatus.queueItem.studentId}
                                                         </div>
                                                     )}
                                                 </div>
@@ -329,20 +329,20 @@ export default function StudentPickupPage() {
                             <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                                 <div className="flex items-center gap-3 mb-6">
                                     <div className="w-3 h-8 bg-purple-400"></div>
-                                    <h2 className="text-2xl font-black text-black">⏱️ QUEUE STATUS</h2>
+                                    <h2 className="text-2xl font-black text-black">⏱️ TRẠNG THÁI ĐƠN</h2>
                                 </div>
 
                                 <div className="space-y-4">
                                     <div className="text-center">
                                         <div className="text-5xl font-black">{queuePosition}</div>
-                                        <div className="text-gray-600">seconds remaining</div>
+                                        <div className="text-gray-600">giây còn lại</div>
                                     </div>
 
                                     <div className="relative pt-2">
                                         <div className="flex mb-2 items-center justify-between">
                                             <div>
                                                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full bg-blue-200">
-                                                    Progress
+                                                    Tiến độ
                                                 </span>
                                             </div>
                                             <div className="text-right">
@@ -361,9 +361,9 @@ export default function StudentPickupPage() {
 
                                     <div className="border-2 border-black p-4 bg-blue-50">
                                         <div className="text-center">
-                                            <div className="font-bold">Approaching the machine...</div>
+                                            <div className="font-bold">Tới máy nhận cơm...</div>
                                             <p className="text-sm text-gray-600 mt-1">
-                                                Please stand by the food dispenser
+                                                Hãy tới máy nhận cơm.
                                             </p>
                                         </div>
                                     </div>
@@ -375,29 +375,29 @@ export default function StudentPickupPage() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-yellow-400"></div>
-                                <h2 className="text-2xl font-black text-black">📋 INSTRUCTIONS</h2>
+                                <h2 className="text-2xl font-black text-black">📋 HƯỚNG DẪN</h2>
                             </div>
 
                             <ol className="space-y-3">
                                 <li className="flex items-start gap-3">
                                     <span className="flex-shrink-0 w-6 h-6 bg-black text-white flex items-center justify-center font-bold">1</span>
-                                    <span>Enter Student ID and check your identity</span>
+                                    <span>Nhập mã học sinh và tìm</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <span className="flex-shrink-0 w-6 h-6 bg-black text-white flex items-center justify-center font-bold">2</span>
-                                    <span>Select the meal in 🍽️ AVAILABLE MEALS</span>
+                                    <span>Tìm đến đúng bữa trong danh sách bữa ăn</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <span className="flex-shrink-0 w-6 h-6 bg-black text-white flex items-center justify-center font-bold">3</span>
-                                    <span>Click &quot;PICK UP MY MEAL&quot; to join queue</span>
+                                    <span>nhấn NHẬN MÓN để bắt đầu nhận món</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <span className="flex-shrink-0 w-6 h-6 bg-black text-white flex items-center justify-center font-bold">4</span>
-                                    <span>Wait at the food dispenser for your meal</span>
+                                    <span>Chờ tại máy nhả thức ăn</span>
                                 </li>
                                 <li className="flex items-start gap-3">
                                     <span className="flex-shrink-0 w-6 h-6 bg-black text-white flex items-center justify-center font-bold">5</span>
-                                    <span>Collect your meal when dispensed</span>
+                                    <span>Lấy khay thức ăn của bạn</span>
                                 </li>
                             </ol>
                         </div>
@@ -408,14 +408,14 @@ export default function StudentPickupPage() {
                 <div className="mt-8 border-4 border-black bg-white p-6">
                     <div className="flex justify-between items-center">
                         <div>
-                            <h3 className="font-bold text-lg">Food Dispenser Status</h3>
+                            <h3 className="font-bold text-lg">Trạng thái máy nhả thức ăn</h3>
                             <div className="flex items-center gap-2 mt-1">
                                 <div className="w-3 h-3 bg-green-500 rounded-full"></div>
-                                <span className="font-bold text-green-600">OPERATIONAL</span>
+                                <span className="font-bold text-green-600">ĐANG HOẠT ĐỘNG</span>
                             </div>
                         </div>
                         <div className="text-right">
-                            <div className="text-sm text-gray-600">Current Time</div>
+                            <div className="text-sm text-gray-600">Hiện tại:</div>
                             <div className="font-bold">{new Date().toLocaleTimeString()}</div>
                         </div>
                     </div>

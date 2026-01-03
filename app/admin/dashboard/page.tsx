@@ -86,7 +86,7 @@ export default function AdminDashboard() {
                                 </span>
                                 {vote.winner && (
                                     <span className=" px-3 py-1 bg-green-200 border border-black">
-                                        Winner: {vote.winner}
+                                        Menu thắng: {vote.winner}
                                     </span>
                                 )}
                             </div>
@@ -97,11 +97,11 @@ export default function AdminDashboard() {
                                         <div className="font-semibold mb-2">{menu.name}</div>
                                         <div className="text-sm">
                                             <div className="flex justify-between">
-                                                <span>Votes:</span>
+                                                <span>Tổng vote:</span>
                                                 <span className="font-bold">{menu.votedStudentIds.length}</span>
                                             </div>
                                             <div className="mt-2">
-                                                <span className="text-gray-600">Voters:</span>
+                                                <span className="text-gray-600">Học sinh:</span>
                                                 <div className="flex flex-wrap gap-1 mt-1">
                                                     {menu.votedStudentIds.map((id, i) => (
                                                         <span key={i} className="text-xs">
@@ -117,7 +117,7 @@ export default function AdminDashboard() {
 
                             {vote.totalRaw && (
                                 <div className="mt-3 p-3 bg-gray-50 border border-black">
-                                    <div className="font-semibold mb-2">Total Raw:</div>
+                                    <div className="font-semibold mb-2">Tổng nguyên liệu:</div>
                                     <pre className="text-xs overflow-x-auto">
                                         {JSON.stringify(vote.totalRaw, null, 2)}
                                     </pre>
@@ -191,7 +191,7 @@ export default function AdminDashboard() {
                                         </div>
                                     </div>
                                     <div className="text-right flex-4">
-                                        <span className="text-sm text-gray-600">Menus: </span>
+                                        <span className="text-sm text-gray-600">Số menu: </span>
                                         <span className="font-bold">{menuKeys.length}</span>
                                     </div>
                                 </div>
@@ -202,9 +202,9 @@ export default function AdminDashboard() {
                                 <div className="border-t-2 border-black p-4 bg-gray-50">
                                     <div className="mb-4">
                                         <h4 className="font-bold text-lg mb-3 flex items-center gap-2">
-                                            <span>🍽️ Menu Configurations</span>
+                                            <span>🍽️ Cấu hình món ăn</span>
                                             <span className="px-2 py-1 bg-black text-white text-sm">
-                                                {menuKeys.length} menus
+                                                {menuKeys.length} menu
                                             </span>
                                         </h4>
                                     </div>
@@ -233,7 +233,7 @@ export default function AdminDashboard() {
                                                         </div>
                                                         <div className="flex items-center gap-3">
                                                             <span className="text-sm text-gray-600">
-                                                                {foodKeys.length} items
+                                                                {foodKeys.length} món
                                                             </span>
                                                             <span className="px-2 py-1 bg-green-200 text-xs border border-black">
                                                                 {foodKeys.length > 0 ? "Configured" : "Empty"}
@@ -265,12 +265,12 @@ export default function AdminDashboard() {
 
                                                                         <div className="space-y-2 mt-3">
                                                                             <div className="flex justify-between items-center bg-gray-100 px-2 border border-black">
-                                                                                <span className="text-sm font-semibold">Weight</span>
+                                                                                <span className="text-sm font-semibold">Khối lượng</span>
                                                                                 <span className="font-bold text-lg">{config.rawWeight}<span className="text-sm">g</span></span>
                                                                             </div>
 
                                                                             <div className="flex justify-between items-center bg-yellow-100 px-2 border border-black">
-                                                                                <span className="text-sm font-semibold">Calories</span>
+                                                                                <span className="text-sm font-semibold">Calo</span>
                                                                                 <span className="font-bold text-lg">{config.calo}<span className="text-sm">cal</span></span>
                                                                             </div>
                                                                         </div>
@@ -291,13 +291,13 @@ export default function AdminDashboard() {
                                                             <div className="mt-4 p-3 bg-black text-white">
                                                                 <div className="flex justify-between items-center">
                                                                     <div>
-                                                                        <span className="font-bold">Menu Summary:</span>
+                                                                        <span className="font-bold">Menu:</span>
                                                                         <span className="ml-2 text-sm text-gray-300">{menuKey}</span>
                                                                     </div>
                                                                     <div className="text-right">
-                                                                        <div className="text-sm">Total Items: {foodKeys.length}</div>
+                                                                        <div className="text-sm">Tổng món: {foodKeys.length}</div>
                                                                         <div className="text-xs text-gray-300">
-                                                                            Avg Weight: {Math.round(
+                                                                            Cân nặng tb: {Math.round(
                                                                                 Object.values(foods).reduce((sum, f) => sum + f.rawWeight, 0) / foodKeys.length
                                                                             )}g
                                                                         </div>
@@ -309,7 +309,7 @@ export default function AdminDashboard() {
 
                                                     {isMenuExpanded && foodKeys.length === 0 && (
                                                         <div className="p-4 text-center border-t border-dashed border-gray-400">
-                                                            <div className="text-gray-500">No food items configured for this menu</div>
+                                                            <div className="text-gray-500">Menu này không có món</div>
                                                         </div>
                                                     )}
                                                 </div>
@@ -321,13 +321,13 @@ export default function AdminDashboard() {
                                     <div className="mt-6 p-4 bg-gradient-to-r from-blue-100 to-purple-100 border-2 border-black">
                                         <div className="flex justify-between items-center">
                                             <div>
-                                                <h5 className="font-bold text-lg">Student Summary</h5>
+                                                <h5 className="font-bold text-lg">Thống kê của học sinh</h5>
                                                 <p className="text-sm text-gray-600">{student.name}</p>
                                             </div>
                                             <div className="text-right">
-                                                <div className="text-sm">Total Menus: {menuKeys.length}</div>
+                                                <div className="text-sm">Tổng menu: {menuKeys.length}</div>
                                                 <div className="text-sm">
-                                                    Total Foods: {Object.values(student.menuConfigs).reduce(
+                                                    Tổng thức ăn: {Object.values(student.menuConfigs).reduce(
                                                         (total, foods) => total + Object.keys(foods).length, 0
                                                     )}
                                                 </div>
@@ -339,10 +339,10 @@ export default function AdminDashboard() {
 
                             {isStudentExpanded && menuKeys.length === 0 && (
                                 <div className="border-t-2 border-black p-6 text-center bg-yellow-50">
-                                    <div className="text-lg font-bold text-gray-600 mb-2">⚠️ No Menu Configurations</div>
-                                    <p className="text-gray-500 mb-4">This student hasn&rsquo;t configured any menu preferences yet.</p>
+                                    <div className="text-lg font-bold text-gray-600 mb-2">⚠️ Không có cấu hình</div>
+                                    <p className="text-gray-500 mb-4">Học sinh này chưa được cấu hình hoàn thiện.</p>
                                     <button className="px-4 py-2 bg-black text-white text-sm font-bold border-2 border-black hover:bg-gray-800">
-                                        ADD DEFAULT CONFIGS
+                                        Thêm cấu hình mặc định
                                     </button>
                                 </div>
                             )}
@@ -369,34 +369,34 @@ export default function AdminDashboard() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-yellow-400"></div>
-                                <h2 className="text-2xl font-black text-black">📊 OVERVIEW</h2>
+                                <h2 className="text-2xl font-black text-black">📊 Thống kê</h2>
                             </div>
 
                             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                                 <div className="border-2 border-black p-4 bg-blue-50">
-                                    <div className="text-lg font-bold mb-2">🍱 Menus</div>
+                                    <div className="text-lg font-bold mb-2">🍱 Menu và món</div>
                                     <div className="text-3xl font-black mb-3">{menus.length}</div>
                                     <Link
                                         href="/menus"
                                         className="inline-block px-4 py-2 bg-black text-white font-bold hover:bg-gray-800 transition-all border-2 border-black"
                                     >
-                                        ADD MORE
+                                        Thêm
                                     </Link>
                                 </div>
 
                                 <div className="border-2 border-black p-4 bg-green-50">
-                                    <div className="text-lg font-bold mb-2">👨‍🎓 Students</div>
+                                    <div className="text-lg font-bold mb-2">👨‍🎓 Học sinh</div>
                                     <div className="text-3xl font-black mb-3">{students.length}</div>
                                     <Link
                                         href="/students"
                                         className="inline-block px-4 py-2 bg-black text-white font-bold hover:bg-gray-800 transition-all border-2 border-black"
                                     >
-                                        ADD MORE
+                                        Thêm
                                     </Link>
                                 </div>
 
                                 <div className="border-2 border-black p-4 bg-red-50">
-                                    <div className="text-lg font-bold mb-2">🗳 Active Votes</div>
+                                    <div className="text-lg font-bold mb-2">🗳 Vote đang hoạt động</div>
                                     <div className="text-3xl font-black">
                                         {votes.filter(v => !v.winner).length}
                                     </div>
@@ -408,13 +408,13 @@ export default function AdminDashboard() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-red-400"></div>
-                                <h2 className="text-2xl font-black text-black">🔥 ACTIVE VOTES</h2>
+                                <h2 className="text-2xl font-black text-black">🔥 Vote đang hoạt động</h2>
                             </div>
 
                             <div className="space-y-4">
                                 {votes.filter(v => !v.winner).length === 0 ? (
                                     <div className="border-2 border-dashed border-gray-400 p-8 text-center">
-                                        <div className="text-xl font-bold text-gray-500">No active votes</div>
+                                        <div className="text-xl font-bold text-gray-500">Không có vote nào đang hoạt động</div>
                                     </div>
                                 ) : (
                                     votes.filter(v => !v.winner).map(v => (
@@ -430,7 +430,7 @@ export default function AdminDashboard() {
                                                     onClick={() => closeVote(v.date, v.type)}
                                                     className="px-4 py-2 bg-red-500 text-white font-bold hover:bg-red-600 transition-all border-2 border-black"
                                                 >
-                                                    CLOSE VOTE
+                                                    Kết thúc vote
                                                 </button>
                                             </div>
 
@@ -439,7 +439,7 @@ export default function AdminDashboard() {
                                                     <div key={m.menuId} className="border border-black p-3 bg-white">
                                                         <div className="font-bold mb-2">{m.name}</div>
                                                         <div className="flex justify-between items-center">
-                                                            <span className="text-sm">Votes:</span>
+                                                            <span className="text-sm">Số vote:</span>
                                                             <span className="text-xl font-black">{m.votedStudentIds.length}</span>
                                                         </div>
                                                         <div className="mt-2 text-xs text-gray-600">
@@ -458,7 +458,7 @@ export default function AdminDashboard() {
                         <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000]">
                             <div className="flex items-center gap-3 mb-6">
                                 <div className="w-3 h-8 bg-green-400"></div>
-                                <h2 className="text-2xl font-black text-black">🚀 OPEN VOTE</h2>
+                                <h2 className="text-2xl font-black text-black">🚀 Mở Vote mới</h2>
                             </div>
 
                             <div className="flex flex-col md:flex-row gap-4">
@@ -472,15 +472,15 @@ export default function AdminDashboard() {
                                     onChange={e => setType(e.target.value)}
                                     className="border-2 border-black p-3 font-bold bg-white focus:outline-none focus:ring-2 focus:ring-blue-400"
                                 >
-                                    <option value="lunch">🍽️ LUNCH</option>
-                                    <option value="dinner">🌙 DINNER</option>
+                                    <option value="lunch">🍽️ Bữa trưa</option>
+                                    <option value="dinner">🌙 Bữa tối</option>
                                 </select>
 
                                 <button
                                     onClick={openVote}
                                     className="px-8 py-3 bg-black text-white font-bold hover:bg-gray-800 transition-all border-2 border-black shadow-[4px_4px_0_0_#000] hover:shadow-[2px_2px_0_0_#000] active:shadow-none"
                                 >
-                                    OPEN VOTE
+                                    Mở Vote
                                 </button>
                             </div>
                         </div>
@@ -490,7 +490,7 @@ export default function AdminDashboard() {
                     <div className="border-4 border-black bg-white p-6 shadow-[8px_8px_0_0_#000] h-fit">
                         <div className="flex items-center gap-3 mb-6">
                             <div className="w-3 h-8 bg-blue-400"></div>
-                            <h2 className="text-2xl font-black text-black">🔍 DATA INSPECTOR</h2>
+                            <h2 className="text-2xl font-black text-black">🔍 Dữ liệu thô</h2>
                         </div>
 
                         {/* Tab Selector */}
@@ -507,14 +507,14 @@ export default function AdminDashboard() {
                                 className={`flex-1 py-3 font-bold border-r-2 border-black ${tab === "menus" ? "bg-black text-white" : "bg-white text-black hover:bg-gray-300"
                                     }`}
                             >
-                                MENUS
+                                Menu, món
                             </button>
                             <button
                                 onClick={() => setTab("students")}
                                 className={`flex-1 py-3 font-bold ${tab === "students" ? "bg-black text-white" : "bg-white text-black hover:bg-gray-300"
                                     }`}
                             >
-                                STUDENTS
+                                Học sinh
                             </button>
                         </div>
 
@@ -526,7 +526,7 @@ export default function AdminDashboard() {
                         {/* Data Summary */}
                         <div className="mt-4 p-3 bg-black text-white">
                             <div className="flex justify-between">
-                                <span className="font-bold">Total Items:</span>
+                                <span className="font-bold">Tổng:</span>
                                 <span className="font-bold">
                                     {tab === "votes" ? votes.length :
                                         tab === "menus" ? menus.length :
