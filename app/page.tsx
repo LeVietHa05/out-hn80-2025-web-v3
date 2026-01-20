@@ -39,7 +39,7 @@ export default function HomePage() {
         {/* Hero Section */}
         <div className="border-4 border-black bg-white p-8 mb-8 shadow-[12px_12px_0_0_#000] text-center">
           <h1 className="text-5xl md:text-7xl font-black text-black mb-4">
-            🍱 SMART CANTEEN
+            🍱  Hệ thống quản lí bếp ăn thông minh
           </h1>
           <div className="h-3 w-48 bg-gradient-to-r from-pink-400 to-indigo-400 mx-auto mb-6"></div>
           <p className="text-xl md:text-2xl font-bold text-gray-700 mb-2">
@@ -54,7 +54,7 @@ export default function HomePage() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           <div className="border-4 border-black bg-white p-6 text-center shadow-[12px_12px_0_0_#000] ">
             <div className="text-4xl font-black mb-2">🎯</div>
-            <div className="text-2xl font-black">Bỏ phiếu thông minh</div>
+            <div className="text-2xl font-black">Lựa chọn thực đơn thông minh</div>
             <p className="text-gray-600 mt-2">Học sinh chọn món ăn yêu thích</p>
           </div>
           <div className="border-4 border-black bg-white p-6 text-center shadow-[12px_12px_0_0_#000] ">
