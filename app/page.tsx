@@ -70,7 +70,7 @@ export default function HomePage() {
         </div>
 
         {/* Navigation Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-8">
           {/* For Students - Voting */}
           <Link
             href="/vote"
@@ -130,6 +130,51 @@ export default function HomePage() {
               Xem tổng nguyên liệu cần chuẩn bị cho nhà bếp
             </p>
             <div className="flex items-center text-yellow-600 font-bold">
+              <span>Truy cập ngay</span>
+              <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
+              </svg>
+            </div>
+          </Link>
+
+          {/* thong ke */}
+          {/* For Statistics */}
+          <Link
+            href="/thongke"
+            className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
+          >
+            <div className="flex items-center gap-4 mb-6">
+              <div className="w-12 h-12 bg-purple-100 border-2 border-black flex items-center justify-center">
+                <span className="text-2xl">📊</span>
+              </div>
+              <h2 className="text-2xl font-black text-black">Thống Kê</h2>
+            </div>
+            <p className="text-gray-600 mb-6">
+              Xem thống kê lượt vote của học sinh theo menu
+            </p>
+            <div className="flex items-center text-purple-600 font-bold">
+              <span>Truy cập ngay</span>
+              <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
+                <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />
+              </svg>
+            </div>
+          </Link>
+
+          {/* nha kho */}
+          <Link
+            href="/quanlikho"
+            className="block border-4 border-black bg-white p-8 hover:shadow-[12px_12px_0_0_#000] transition-all duration-300 hover:-translate-y-2"
+          >
+            <div className="flex items-center gap-4 mb-6">
+              <div className="w-12 h-12 bg-purple-100 border-2 border-black flex items-center justify-center">
+                <span className="text-2xl">📊</span>
+              </div>
+              <h2 className="text-2xl font-black text-black">Nhà kho</h2>
+            </div>
+            <p className="text-gray-600 mb-6">
+              Xem thông tin nhiệt độ và độ ẩm của nhà kho
+            </p>
+            <div className="flex items-center text-purple-600 font-bold">
               <span>Truy cập ngay</span>
               <svg className="w-5 h-5 ml-2" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M10.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L12.586 11H5a1 1 0 110-2h7.586l-2.293-2.293a1 1 0 010-1.414z" clipRule="evenodd" />

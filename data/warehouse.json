@@ -1,0 +1,21 @@
+{
+  "current": {
+    "timestamp": "2024-01-15T14:30:00.000Z",
+    "temperature": 25.5,
+    "humidity": 65,
+    "motionDetected": false,
+    "fanStatus": true,
+    "lightStatus": false,
+    "doorStatus": false
+  },
+  "history": [],
+  "alerts": [
+    {
+      "type": "high_temperature",
+      "message": "Nhiệt độ quá cao: 32°C",
+      "timestamp": "2024-01-15T14:30:00.000Z",
+      "severity": "high"
+    }
+  ],
+  "lastUpdated": "2024-01-15T14:30:00.000Z"
+}
